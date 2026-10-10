@@ -1,0 +1,10 @@
+ŠPMC PWA v4
+
+1. Visus failus įkelkite į GitHub saugyklos šaknį (root).
+2. Pakeiskite esamus index.html, sw.js, manifest.webmanifest ir ikonėles.
+3. Pridėkite app.js, laikotarpiai.json ir tvarkarastis-2026-10-05.json.
+4. Telefone atidarykite programėlę, prisijungę prie interneto, ir paspauskite Tikrinti atnaujinimus.
+5. Naujam laikotarpiui iš administravimo sistemos eksportuokite JSON, pervadinkite pvz. tvarkarastis-2026-10-19.json, įkelkite jį į GitHub ir papildykite laikotarpiai.json periods masyvą. Pakeiskite updated. PWA atnaujinimų mygtukas atsisiunčia naują sąrašą.
+6. Niekada netalpinkite GitHub slaptažodžių ar prieigos raktų į programėlės kodą.
+7. V4 skaito holidays lauką; patikrinkite realaus atostogų eksporto laukų pavadinimus prieš naudodami.
+8. Šiuo metu patvirtintas tik 2026-10-05 ir 2026-10-12 savaičių tvarkaraštis.
