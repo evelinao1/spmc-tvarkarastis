@@ -8,3 +8,5 @@
 6. Niekada netalpinkite GitHub slaptažodžių ar prieigos raktų į programėlės kodą.
 7. V4 skaito holidays lauką; patikrinkite realaus atostogų eksporto laukų pavadinimus prieš naudodami.
 8. Šiuo metu patvirtintas tik 2026-10-05 ir 2026-10-12 savaičių tvarkaraštis.
+
+Versija 4.1: savaiciu mygtuku datos atskirose eilutese; Rodyti siandiena parenka artimiausia darbo diena ir tinkama savaite.
