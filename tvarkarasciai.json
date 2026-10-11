@@ -1,6 +1,6 @@
 {
   "schemaVersion": 3,
-  "updated": "2026-10-10",
+  "updated": "2026-10-11",
   "periods": [
     {
       "schemaVersion": 2,
@@ -11,7 +11,7 @@
       },
       "periodStart": "2026-10-05",
       "periodEnd": "2026-10-16",
-      "updated": "2026-10-10",
+      "updated": "2026-10-11",
       "holidays": [],
       "entries": [
         {
